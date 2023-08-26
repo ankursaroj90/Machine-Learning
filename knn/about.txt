@@ -1,1 +1,6 @@
 input syntax: DataFrame with values in each row, i.e, df[val, val, val, val]
+output: 0	-> Setosa
+        1	-> Versicolor
+        2	-> Virginica
+
+NOTE: use if-else condition while displaying output.
